@@ -8,5 +8,4 @@
 
 # Preview
 
-<img width="100%" height="100%" src="https://github.com/devwithzain/parallax-components/assets/131141179/b56efd51-ff20-4d92-958a-dd534aa3616f" />
-
+<img width="100%" height="100%" src="https://github.com/user-attachments/assets/d8970bd9-9aa3-4009-9ed5-05665788841e" />
